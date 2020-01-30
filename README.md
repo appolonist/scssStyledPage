@@ -1,3 +1,1 @@
-# wood-only
-Market for quality wood
-# scssStyledPage
+# scssStyledPage to see after clone/download repository just open index.html
